@@ -9,7 +9,7 @@ Release:  1
 License:  BSD and Public Domain
 Group:    File tools
 URL:      https://github.com/bwalex/tc-play
-Source0:  https://github.com/bwalex/tc-play/archive/v%{version}.tar.gz
+Source0:  https://codeload.github.com/bwalex/tc-play/tar.gz/v%{version}
 
 BuildRequires:  cmake
 BuildRequires:  pkgconfig(devmapper)
